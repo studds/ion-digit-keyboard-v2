@@ -1,6 +1,6 @@
 {
-  "name": "ionic-app-base",
-  "author": "Ionic Framework",
+  "name": "ion-digit-keyboard",
+  "author": "Vincent Letellier",
   "homepage": "http://ionicframework.com/",
   "private": false,
   "version": "2.0.0",
